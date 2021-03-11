@@ -1,0 +1,18 @@
+.league-container{
+    border: 1px solid;
+    margin: 60px;
+    height: 125px;
+    width: 60%;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: white;
+  
+
+
+}
+.main-button{
+    background-color: rgb(80, 80, 240);
+    border: 1px solid gray;
+    border-radius: 5px;
+    color: white;
+}

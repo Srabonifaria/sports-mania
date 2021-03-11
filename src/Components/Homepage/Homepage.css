@@ -1,0 +1,12 @@
+.box-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    background-color: rgb(6, 6, 75);
+}
+.header{
+    text-align: center;
+    height: 200px;
+    color: white;
+    background-image: url(https://images.unsplash.com/photo-1508098682722-e99c43a406b2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHw%3D&w=1000&q=80);
+    background-size: 100%;
+}
